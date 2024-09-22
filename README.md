@@ -33,8 +33,7 @@ Outro desafio foi ajustar a velocidade do jogo para que a população não se ad
 
 ## Apresentação
 
-
-
+Devido ao tamanho do arquivo o vídeo foi publicado no Youtube : https://youtu.be/HXR-30sYPQQ
 
 ## Curiosidades e Dificuldades:
 
